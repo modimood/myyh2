@@ -40,7 +40,7 @@ twig:
     strict_variables: '%kernel.debug%'
 
 # Doctrine Configuration
-# testpull
+# testpull and commit
 doctrine:
     dbal:
         driver: pdo_mysql
